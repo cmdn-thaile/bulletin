@@ -13,8 +13,6 @@ const nextConfig: NextConfig = {
         pathname: '/api/media/file/**',
       },
     ],
-    // Ảnh lưu trên Vercel Blob (khi deploy)
-    remotePatterns: [{ protocol: 'https', hostname: '*.public.blob.vercel-storage.com' }],
   },
   webpack: (webpackConfig) => {
     webpackConfig.resolve.extensionAlias = {
