@@ -1,0 +1,1250 @@
+{
+ "url": "http://localhost:3000/news/sieu-xayda-vua-xuat-hien-tai-trai-dat",
+ "at": "2026-11-05T09:01:11.979Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.08
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 900,
+     "screens": 1,
+     "words": 54,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bản Tin",
+     "words": 2,
+     "chars": 7,
+     "lines": 1,
+     "size": 80,
+     "vw": 5.6,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.87,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "siêu xayda vừa xuất hiện tại trái đất",
+     "words": 8,
+     "lines": 2,
+     "size": 48,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 80,
+      "vw": 5.6,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "siêu xayda vừa xuất hiện tại trái đất",
+      "words": 8,
+      "chars": 37,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.015,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.47,
+      "top": 227,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 538,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 8,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 0.68,
+       "mono": false
+      },
+      {
+       "family": "Source Serif 4",
+       "share": 0.32,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      18,
+      32,
+      48,
+      80
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 13,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.5
+     },
+     "measureChars": 192,
+     "max": {
+      "size": 80,
+      "vw": 5.6,
+      "font": "Source Serif 4",
+      "text": "Bản Tin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.33,
+     "smallText": 1
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#555555",
+       "share": 0.53
+      },
+      {
+       "color": "#111111",
+       "share": 0.47
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "nav.wrap.sections 1280px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 187,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 900,
+    "margins": {
+     "left": 96,
+     "right": 96
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 187,
+      "words": 17,
+      "media": 0,
+      "middle": 454,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 80,
+       "tag": "a"
+      },
+      "left": 96,
+      "right": 96,
+      "textLeft": 96,
+      "textRight": 96,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.wrap",
+      "tag": "main",
+      "top": 187,
+      "height": 324,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "siêu xayda vừa xuất hiện tại trái đất",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 380,
+      "right": 430,
+      "textLeft": 380,
+      "textRight": 430,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 511,
+      "height": 127,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 528,
+      "right": 513,
+      "textLeft": 528,
+      "textRight": 513,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "siêu xayda vừa xuất hiện tại trái đất",
+      "size": 48,
+      "top": 227,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 380,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 1,
+    "bodySize": 13,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.33,
+    "voidBox": {
+     "x": 0,
+     "y": 600,
+     "w": 1440,
+     "h": 300
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.12
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 1024,
+     "screens": 1,
+     "words": 54,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bản Tin",
+     "words": 2,
+     "chars": 7,
+     "lines": 1,
+     "size": 62.4,
+     "vw": 8.1,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.96,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "siêu xayda vừa xuất hiện tại trái đất",
+     "words": 8,
+     "lines": 1,
+     "size": 37.6,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "siêu xayda vừa xuất hiện tại trái đất",
+      "words": 8,
+      "chars": 37,
+      "lines": 1,
+      "size": 37.6,
+      "vw": 4.9,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.015,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 209,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 456,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 8,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 0.68,
+       "mono": false
+      },
+      {
+       "family": "Source Serif 4",
+       "share": 0.32,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      18,
+      32,
+      38,
+      62
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 13,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.5
+     },
+     "measureChars": 113,
+     "max": {
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Source Serif 4",
+      "text": "Bản Tin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.33,
+     "smallText": 1
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#555555",
+       "share": 0.53
+      },
+      {
+       "color": "#111111",
+       "share": 0.47
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "nav.wrap.sections 768px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 169,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 1024,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 169,
+      "words": 17,
+      "media": 0,
+      "middle": 203,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 62,
+       "tag": "a"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.wrap",
+      "tag": "main",
+      "top": 169,
+      "height": 260,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "siêu xayda vừa xuất hiện tại trái đất",
+       "size": 38,
+       "tag": "h1"
+      },
+      "left": 44,
+      "right": 159,
+      "textLeft": 44,
+      "textRight": 159,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 429,
+      "height": 127,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 192,
+      "right": 177,
+      "textLeft": 192,
+      "textRight": 177,
+      "fullBleed": false,
+      "footer": true,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "siêu xayda vừa xuất hiện tại trái đất",
+      "size": 38,
+      "top": 209,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 44,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 1,
+    "bodySize": 13,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.18
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 844,
+     "screens": 1,
+     "words": 54,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bản Tin",
+     "words": 2,
+     "chars": 7,
+     "lines": 1,
+     "size": 44,
+     "vw": 11.3,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "siêu xayda vừa xuất hiện tại trái đất",
+     "words": 8,
+     "lines": 2,
+     "size": 32,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "siêu xayda vừa xuất hiện tại trái đất",
+      "words": 8,
+      "chars": 37,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.015,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 191,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 467,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 8,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 0.68,
+       "mono": false
+      },
+      {
+       "family": "Source Serif 4",
+       "share": 0.32,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      18,
+      32,
+      44
+     ],
+     "sizeCount": 5,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 13,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.5
+     },
+     "measureChars": 55,
+     "max": {
+      "size": 44,
+      "vw": 11.3,
+      "font": "Source Serif 4",
+      "text": "Bản Tin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.33,
+     "smallText": 1
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#555555",
+       "share": 0.53
+      },
+      {
+       "color": "#111111",
+       "share": 0.47
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "nav.wrap.sections 390px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 151,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 844,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 151,
+      "words": 17,
+      "media": 0,
+      "middle": 14,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 44,
+       "tag": "a"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.wrap",
+      "tag": "main",
+      "top": 151,
+      "height": 289,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "siêu xayda vừa xuất hiện tại trái đất",
+       "size": 32,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 36,
+      "textLeft": 16,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 440,
+      "height": 146,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 37,
+      "right": 22,
+      "textLeft": 37,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "siêu xayda vừa xuất hiện tại trái đất",
+      "size": 32,
+      "top": 191,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 1,
+    "bodySize": 13,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "hairline",
+   "width": 1440,
+   "message": "1 thin rule(s)/divider line(s): nav.wrap.sections 1280px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 13px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "first-action",
+   "width": 1440,
+   "message": "No visible button in the first screen.",
+   "fix": "Give the one primary action a real button in the first screen (a filled or solid-bordered control, 44px or taller), not only a link in the navigation.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 192 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "small-text",
+   "width": 1440,
+   "message": "1 text block(s) under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Boska and Boska, but the page renders Inter, Source Serif 4.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "WARN",
+   "id": "hero-void",
+   "width": 1440,
+   "message": "33% of the first screen is one empty block (1440×300px at 0,600).",
+   "fix": "Place the void on purpose or fill it: move the picture, the film or one fact into it, grow the headline to meet it, or shrink the screen to its content. A void reads as placed only when something closes it on the far side and it is the screen's one rest."
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 1 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj-story/desktop-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj-story/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj-story/tablet-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj-story/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj-story/mobile-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj-story/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

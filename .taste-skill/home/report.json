@@ -1,0 +1,1500 @@
+{
+ "url": "http://localhost:3000/",
+ "at": "2026-11-06T02:24:01.459Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.48,
+    0.36,
+    0.53
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 2279,
+     "screens": 2.5,
+     "words": 462,
+     "img": 12,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fthe-road-trip-",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Flet-us-be-bore",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fcities-should-",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fin-praise-of-t",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fwine-exporters",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fhousing-starts",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Foffice-landlor",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fwheat-prices-e"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The Bulletin",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 80,
+     "vw": 5.6,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.87,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The Road Trip Deserves Better Than Turn-by-Turn Directions",
+     "words": 8,
+     "lines": 2,
+     "size": 40,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 80,
+      "vw": 5.6,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "The Road Trip Deserves Better Than Turn-by-Turn Directions",
+      "words": 8,
+      "chars": 58,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 612,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 2180,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 8,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Serif 4",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Inter",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      15,
+      16,
+      18,
+      20,
+      32,
+      40,
+      80
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Serif 4",
+      "size": 15,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.6
+     },
+     "measureChars": 64,
+     "max": {
+      "size": 80,
+      "vw": 5.6,
+      "font": "Source Serif 4",
+      "text": "The Bulletin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.05,
+     "centerShare": 0.04,
+     "smallText": 9
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#333333",
+       "share": 0.55
+      },
+      {
+       "color": "#111111",
+       "share": 0.36
+      },
+      {
+       "color": "#555555",
+       "share": 0.08
+      },
+      {
+       "color": "#0274b6",
+       "share": 0
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 20,
+     "hairlineSamples": [
+      "nav.wrap.sections 1280px",
+      "div.secondary 346px",
+      "article.story-sm 321px",
+      "article.story-sm 321px",
+      "aside.latest 277px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.17
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 187,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 2279,
+    "margins": {
+     "left": 96,
+     "right": 96
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 187,
+      "words": 15,
+      "media": 0,
+      "middle": 321,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 80,
+       "tag": "a"
+      },
+      "left": 96,
+      "right": 96,
+      "textLeft": 96,
+      "textRight": 96,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.front",
+      "tag": "div",
+      "top": 211,
+      "height": 1071,
+      "words": 215,
+      "media": 4,
+      "middle": 49,
+      "heading": {
+       "text": "The Road Trip Deserves Better Than Turn-by-Turn Di",
+       "size": 40,
+       "tag": "h1"
+      },
+      "left": 96,
+      "right": 107,
+      "textLeft": 96,
+      "textRight": 107,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.more",
+      "tag": "section",
+      "top": 1322,
+      "height": 767,
+      "words": 228,
+      "media": 8,
+      "middle": 49,
+      "heading": {
+       "text": "Wine Exporters Look to New Markets as Old Ones Coo",
+       "size": 20,
+       "tag": "h3"
+      },
+      "left": 96,
+      "right": 96,
+      "textLeft": 96,
+      "textRight": 97,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 2153,
+      "height": 127,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 505,
+      "right": 489,
+      "textLeft": 505,
+      "textRight": 489,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The Road Trip Deserves Better Than Turn-by-Turn Directions",
+      "size": 40,
+      "top": 612,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 96,
+      "n": 6
+     },
+     {
+      "x": 722,
+      "n": 6
+     },
+     {
+      "x": 439,
+      "n": 4
+     },
+     {
+      "x": 757,
+      "n": 4
+     },
+     {
+      "x": 1075,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 24,
+    "bodySize": 15,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.04,
+    "voidBox": {
+     "x": 1320,
+     "y": 120,
+     "w": 120,
+     "h": 480
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.55,
+    0.34,
+    0.74,
+    0.64
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3604,
+     "screens": 3.5,
+     "words": 462,
+     "img": 12,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fthe-road-trip-",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Flet-us-be-bore",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fcities-should-",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fin-praise-of-t",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fwine-exporters",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fhousing-starts",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Foffice-landlor",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fwheat-prices-e"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The Bulletin",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 62.4,
+     "vw": 8.1,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.96,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The Road Trip Deserves Better Than Turn-by-Turn Directions",
+     "words": 8,
+     "lines": 2,
+     "size": 29.9,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "The Road Trip Deserves Better Than Turn-by-Turn Directions",
+      "words": 8,
+      "chars": 58,
+      "lines": 2,
+      "size": 29.9,
+      "vw": 3.9,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.56,
+      "top": 494,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3504,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 8,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Serif 4",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Inter",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      15,
+      16,
+      18,
+      20,
+      30,
+      32,
+      62
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Serif 4",
+      "size": 15,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.6
+     },
+     "measureChars": 47,
+     "max": {
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Source Serif 4",
+      "text": "The Bulletin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.05,
+     "centerShare": 0.04,
+     "smallText": 9
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#333333",
+       "share": 0.55
+      },
+      {
+       "color": "#111111",
+       "share": 0.36
+      },
+      {
+       "color": "#555555",
+       "share": 0.08
+      },
+      {
+       "color": "#0274b6",
+       "share": 0
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 17,
+     "hairlineSamples": [
+      "nav.wrap.sections 768px",
+      "div.secondary 285px",
+      "article.story-sm 260px",
+      "article.story-sm 260px",
+      "li 736px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.15
+     }
+    ],
+    "nav": {
+     "links": 8,
+     "fixed": false,
+     "height": 169,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 3604,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 169,
+      "words": 15,
+      "media": 0,
+      "middle": 65,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 62,
+       "tag": "a"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.front",
+      "tag": "div",
+      "top": 193,
+      "height": 1580,
+      "words": 215,
+      "media": 4,
+      "middle": 15,
+      "heading": {
+       "text": "The Road Trip Deserves Better Than Turn-by-Turn Di",
+       "size": 30,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.more",
+      "tag": "section",
+      "top": 1814,
+      "height": 1600,
+      "words": 228,
+      "media": 8,
+      "middle": 49,
+      "heading": {
+       "text": "Wine Exporters Look to New Markets as Old Ones Coo",
+       "size": 20,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 3477,
+      "height": 127,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 169,
+      "right": 153,
+      "textLeft": 169,
+      "textRight": 153,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The Road Trip Deserves Better Than Turn-by-Turn Directions",
+      "size": 30,
+      "top": 494,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 10
+     },
+     {
+      "x": 421,
+      "n": 8
+     },
+     {
+      "x": 492,
+      "n": 6
+     }
+    ],
+    "leftBlocks": 24,
+    "bodySize": 15,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.71,
+    0.76,
+    0.4,
+    0.68,
+    0.78,
+    0.76,
+    0.69,
+    0.53
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6166,
+     "screens": 7.3,
+     "words": 462,
+     "img": 12,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fthe-road-trip-",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Flet-us-be-bore",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fcities-should-",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fin-praise-of-t",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fwine-exporters",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fhousing-starts",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Foffice-landlor",
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fwheat-prices-e"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The Bulletin",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 44,
+     "vw": 11.3,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The Road Trip Deserves Better Than Turn-by-Turn Directions",
+     "words": 8,
+     "lines": 3,
+     "size": 28,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "The Road Trip Deserves Better Than Turn-by-Turn Directions",
+      "words": 8,
+      "chars": 58,
+      "lines": 3,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 430,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6047,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 8,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Serif 4",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Inter",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      15,
+      16,
+      18,
+      20,
+      28,
+      32,
+      44
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Serif 4",
+      "size": 15,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.6
+     },
+     "measureChars": 40,
+     "max": {
+      "size": 44,
+      "vw": 11.3,
+      "font": "Source Serif 4",
+      "text": "The Bulletin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.05,
+     "centerShare": 0.04,
+     "smallText": 9
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#333333",
+       "share": 0.55
+      },
+      {
+       "color": "#111111",
+       "share": 0.36
+      },
+      {
+       "color": "#555555",
+       "share": 0.08
+      },
+      {
+       "color": "#0274b6",
+       "share": 0
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 21,
+     "hairlineSamples": [
+      "nav.wrap.sections 390px",
+      "div.secondary 358px",
+      "article.story-sm 358px",
+      "article.story-sm 358px",
+      "aside.latest 358px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.26
+     },
+     {
+      "type": "img",
+      "ratio": 0.11
+     }
+    ],
+    "nav": {
+     "links": 8,
+     "fixed": false,
+     "height": 151,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6166,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 151,
+      "words": 15,
+      "media": 0,
+      "middle": 7,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 44,
+       "tag": "a"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "article.lead",
+      "tag": "article",
+      "top": 175,
+      "height": 521,
+      "words": 47,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Road Trip Deserves Better Than Turn-by-Turn Di",
+       "size": 28,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.secondary",
+      "tag": "div",
+      "top": 720,
+      "height": 1145,
+      "words": 83,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Let Us Be Bored Again",
+       "size": 20,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "aside.latest",
+      "tag": "aside",
+      "top": 1890,
+      "height": 670,
+      "words": 85,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Latest",
+       "size": 13,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 32,
+      "textLeft": 16,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.more",
+      "tag": "section",
+      "top": 2599,
+      "height": 3357,
+      "words": 228,
+      "media": 8,
+      "middle": 0,
+      "heading": {
+       "text": "Wine Exporters Look to New Markets as Old Ones Coo",
+       "size": 20,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 6020,
+      "height": 146,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 34,
+      "right": 19,
+      "textLeft": 34,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The Road Trip Deserves Better Than Turn-by-Turn Directions",
+      "size": 28,
+      "top": 430,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "Home",
+      "side": "left",
+      "px": 0
+     },
+     {
+      "text": "World",
+      "side": "right",
+      "px": 0
+     }
+    ],
+    "edges": [
+     {
+      "x": 16,
+      "n": 24
+     }
+    ],
+    "leftBlocks": 24,
+    "bodySize": 15,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "20 thin rule(s)/divider line(s): nav.wrap.sections 1280px | div.secondary 346px | article.story-sm 321px | article.story-sm 321px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 15px.",
+   "fix": "Body copy 16–20px.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "first-action",
+   "width": 1440,
+   "message": "No visible button in the first screen.",
+   "fix": "Give the one primary action a real button in the first screen (a filled or solid-bordered control, 44px or taller), not only a link in the navigation.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "9 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Boska and Boska, but the page renders Source Serif 4, Inter.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 1 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  },
+  {
+   "level": "WARN",
+   "id": "small-title",
+   "width": 768,
+   "message": "The h1 is 30px (\"The Road Trip Deserves Better Than Turn-by-Turn Di\").",
+   "fix": "Set the title at display size, or make the large text of the first screen the h1."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"The Road Trip Deserves Better Than Turn-by-Turn \" → 3 lines (8 words, 28px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "edge-text",
+   "width": 390,
+   "message": "2 text block(s) sit within 12px of the screen edge: \"Home\" (0px from the left); \"World\" (0px from the right)",
+   "fix": "Keep text inside the page margin (16–20px). Only display type deliberately bled past the edge may touch it."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/home/desktop-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/home/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/home/tablet-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/home/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/home/mobile-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/home/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

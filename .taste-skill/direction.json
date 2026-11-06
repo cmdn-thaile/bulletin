@@ -1,0 +1,474 @@
+{
+ "version": 1,
+ "at": "2026-11-05T08:55:10.498Z",
+ "seed": 302367900,
+ "redraws": 0,
+ "input": {
+  "brief": "Vietnamese news site built on Payload CMS: front page of latest stories, article pages",
+  "sector": "culture",
+  "tone": "editorial",
+  "have": [],
+  "keep": [],
+  "avoid": [],
+  "sections": [
+   "list",
+   "footer"
+  ],
+  "direction": "page-is-the-object"
+ },
+ "imagery": "atmosphere",
+ "allow": [],
+ "direction": {
+  "id": "page-is-the-object",
+  "name": "The page is the object",
+  "sectors": [
+   "restaurant",
+   "event",
+   "hospitality",
+   "culture",
+   "music",
+   "physical-product",
+   "ecommerce",
+   "nonprofit",
+   "education",
+   "personal-portfolio",
+   "consumer-app",
+   "other"
+  ],
+  "tones": [
+   "warm",
+   "playful",
+   "editorial"
+  ],
+  "needs": [],
+  "idea": "Find the printed or physical artefact that already exists in the subject's world and build the page as that thing. A wedding site is the invitation card. A restaurant is its menu. A conference is the ticket; a record is its sleeve; a shop is the receipt or the swing tag; an archive is a stack of tabbed folders; a course is the syllabus sheet. The artefact supplies everything a template would otherwise invent: its proportions, its typographic manners, its way of grouping information. Visitors recognise the object instantly, which is why these pages feel specific.",
+  "composition": "The first screen shows the artefact as a single filled panel (paper colour on a contrasting ground) centred or offset, with believable proportions: a card at 5:7, a ticket at about 2.2:1 with a notch cut by `clip-path`, a menu as a tall sheet. All primary content lives on it, set the way that object is set: centred and symmetrical for an invitation, in tidy aligned columns for a menu or ticket. The ground behind is a flat colour or one full-bleed photograph. As the page continues, each section is another piece of the same stationery: a second card, a tear-off stub, a folded panel, always filled shapes with real edges (straight, notched, scalloped, perforated by a dotted `border` of round dots at 4px or more), never outlined boxes. The footer is the back of the object.",
+  "typography": "Take the manners of the artefact: a bookish serif with small caps avoided, or a blunt condensed face for tickets and posters. Sizes stay within what print would use relative to the panel; the name is large on the panel, details are small and exact.",
+  "typeClasses": [
+   "serif-text",
+   "serif-display",
+   "slab",
+   "condensed-heavy",
+   "grotesk-tight"
+  ],
+  "colour": "Paper and ink plus the ground the paper sits on. Two or three flat colours in total, like a two-colour print job.",
+  "paletteTags": [
+   "two-tone",
+   "earth",
+   "light-neutral"
+  ],
+  "imagery": "Optional. One photograph behind the object, or small photographs placed on it like tipped-in plates. The object itself is the image.",
+  "sectionTags": [
+   "object-led",
+   "type-led",
+   "colour-field"
+  ],
+  "motion": "curtain-footer",
+  "richness": "Recognition. The shaped edges, the print-like alignment and the limited inks make a familiar object out of plain HTML.",
+  "pitfalls": "Choose an artefact that truly belongs to the subject, or it becomes costume. Shape the edges with fills and `clip-path`; an outlined rectangle with a thin border is not an object. Keep text sizes readable on a phone, where the object becomes full width with its shaped edge kept at top and bottom.",
+  "seenIn": [
+   "opl-sarah-matt-wedding",
+   "aww-mosbys-files",
+   "opl-the-deep-end",
+   "opl-weeksync",
+   "opl-le-petit-bleu",
+   "opl-archiv"
+  ],
+  "allow": []
+ },
+ "hero": {
+  "id": "tabbed-folder-stack",
+  "name": "Tabbed folder stack",
+  "archetype": "artefact",
+  "directions": [
+   "page-is-the-object",
+   "one-motif",
+   "colour-chapters"
+  ],
+  "needs": [],
+  "blueprint": "A dark flat ground. A slim top row at 24px holds the wordmark dead centre and one text link far right at 15px. The headline is one centred line of heavy condensed capitals at clamp(96px, 10vw, 160px), spanning about 70% of the width, its cap line 110px from the top. Under it one supporting sentence in a serif at 20px, centred, max 46ch. From 51% of the height down the screen is a stack of five file folders: flat colour bands 86% of the viewport wide, centred, each offset 64px below the one behind so only a strip of the back four shows. Every folder has one trapezoid tab rising 40px from its top edge, cut with `clip-path: polygon()`, at its own horizontal position and in its own colour, holding one section name at 18px. The front folder is open and runs off the bottom edge; it carries the single action as a solid button at its top-left with 32px padding. Each folder links to its section and lends that section its ground colour. The tab shape returns as the button's top corners.",
+  "mobile": "The headline sits 96px down at 17vw on one line, or two at 15vw, centred, with the supporting sentence at 16px beneath. The folder stack starts at 48svh at full width: bands offset 52px, tabs 32px tall with names at 15px, staggered left, centre and right. The front folder runs off the bottom with the action button at full width inside it.",
+  "headline": "The name or a two-word statement on one line of up to about 12 characters at 10vw; two lines allowed on a phone.",
+  "motion": "index-preview",
+  "seenIn": [
+   "aww-mosbys-files",
+   "opl-medium-rare"
+  ]
+ },
+ "type": {
+  "id": "boska-roman-italic",
+  "name": "Boska",
+  "class": "serif-display",
+  "display": {
+   "family": "Boska",
+   "source": "fontshare",
+   "slug": "boska",
+   "weights": [
+    400
+   ],
+   "italic": true,
+   "settings": "weight 400 · tracking -0.02em · leading 0.95 · roman capitals for the main words with lowercase italic for the connecting words at the same size, or sentence case throughout; centred lines work",
+   "css": "<link rel=\"preconnect\" href=\"https://api.fontshare.com\">\n<link rel=\"preconnect\" href=\"https://cdn.fontshare.com\" crossorigin>\n<link href=\"https://api.fontshare.com/v2/css?f[]=boska@400,401,500&display=swap\" rel=\"stylesheet\">"
+  },
+  "text": {
+   "family": "Boska",
+   "source": "fontshare",
+   "slug": "boska",
+   "weights": [
+    400,
+    500
+   ],
+   "italic": true,
+   "settings": "400 for body, 500 for emphasis · leading 1.5 · tracking 0.005em",
+   "css": "<link rel=\"preconnect\" href=\"https://api.fontshare.com\">\n<link rel=\"preconnect\" href=\"https://cdn.fontshare.com\" crossorigin>\n<link href=\"https://api.fontshare.com/v2/css?f[]=boska@400,401,500&display=swap\" rel=\"stylesheet\">"
+  },
+  "standsInFor": [
+   "Louize Display",
+   "PP Pangaia"
+  ],
+  "note": "A high-contrast serif with pointed serifs and a lively italic, used roman and italic together at one size. Suits perfume, jewellery, lodges, weddings and other occasions for ceremony.",
+  "seenIn": [
+   "aww-vero-new-york",
+   "opl-eagles-nest",
+   "opl-sarah-matt-wedding"
+  ],
+  "links": [
+   "https://api.fontshare.com/v2/css?f[]=boska@400,401,500&display=swap"
+  ],
+  "scale": {
+   "step-small": "clamp(0.8125rem, 0.79rem + 0.1vw, 0.875rem)",
+   "step-body": "clamp(1.0625rem, 1rem + 0.25vw, 1.1875rem)",
+   "step-lead": "clamp(1.25rem, 1.1rem + 0.7vw, 1.625rem)",
+   "step-head": "clamp(2rem, 1.3rem + 3.2vw, 4rem)"
+  }
+ },
+ "palette": {
+  "id": "white-link-blue",
+  "name": "Sheet and biro",
+  "tags": [
+   "light-neutral",
+   "mono-accent"
+  ],
+  "bg": "#ffffff",
+  "surface": "#f4f4f4",
+  "ink": "#111111",
+  "muted": "#6b6b6b",
+  "accent": "#1a4be0",
+  "accentInk": "#ffffff",
+  "fields": [
+   {
+    "bg": "#111111",
+    "ink": "#ffffff"
+   }
+  ],
+  "note": "White holds the whole page with black type, one grey for secondary lines and a pale grey step for tiles and inputs; the footer may invert to black. Blue is the colour of text links and the one button, and nothing else is tinted.",
+  "seenIn": [
+   "opl-shawn-golden",
+   "opl-lovably",
+   "aww-bleibtgleich26"
+  ]
+ },
+ "photos": {
+  "set": "architecture",
+  "title": "Architecture",
+  "note": "structure, lines, bridges, facades and building interiors",
+  "treatment": null,
+  "others": [
+   "city-day",
+   "sky-and-space",
+   "people",
+   "fog-and-quiet"
+  ],
+  "photos": [
+   {
+    "id": 946,
+    "alt": "Yellow brick house front with a dark green door and window",
+    "tone": "mid",
+    "colours": [
+     "ochre yellow",
+     "dark green",
+     "charcoal"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.4,
+    "by": "Padurariu Alexandru",
+    "page": "https://unsplash.com/photos/2UE1givDiPM"
+   },
+   {
+    "id": 693,
+    "alt": "Red suspension bridge tower rising from fog above rugged cliffs",
+    "tone": "mid",
+    "colours": [
+     "rust red",
+     "grey",
+     "dark teal"
+    ],
+    "mono": false,
+    "calm": "left",
+    "quality": 5,
+    "ratio": 2.15,
+    "by": "Rob Bye",
+    "page": "https://unsplash.com/photos/bopC0sTGu-E"
+   },
+   {
+    "id": 887,
+    "alt": "White apartment block facade with repeating balconies and windows",
+    "tone": "light",
+    "colours": [
+     "white",
+     "pale grey",
+     "soft red"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 5,
+    "ratio": 1.5,
+    "by": "Roman Kraft",
+    "page": "https://unsplash.com/photos/7sMHTVJ0OTA"
+   },
+   {
+    "id": 618,
+    "alt": "Curving glass and steel lattice roof in black and white",
+    "tone": "light",
+    "colours": [
+     "white",
+     "grey",
+     "black"
+    ],
+    "mono": true,
+    "calm": "none",
+    "quality": 5,
+    "ratio": 1.5,
+    "by": "Mika Ruusunen",
+    "page": "https://unsplash.com/photos/ypVM8PnygUo"
+   },
+   {
+    "id": 855,
+    "alt": "Small figure walking past a huge bright yellow wall",
+    "tone": "light",
+    "colours": [
+     "bright yellow",
+     "black"
+    ],
+    "mono": false,
+    "calm": "left",
+    "quality": 5,
+    "ratio": 1.5,
+    "by": "Rodion Kutsaev",
+    "page": "https://unsplash.com/photos/IJ25m7fXqtk"
+   },
+   {
+    "id": 508,
+    "alt": "Tall pointed vaults and pale columns of a church interior",
+    "tone": "light",
+    "colours": [
+     "cream",
+     "warm grey",
+     "soft orange"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 5,
+    "ratio": 0.76,
+    "by": "Jeff Sheldon",
+    "page": "https://unsplash.com/photos/u3gES0SUsnI"
+   },
+   {
+    "id": 942,
+    "alt": "White angular concrete building against a black sky",
+    "tone": "dark",
+    "colours": [
+     "black",
+     "white",
+     "pale grey"
+    ],
+    "mono": true,
+    "calm": "top",
+    "quality": 5,
+    "ratio": 1.5,
+    "by": "Carl Nenzen Loven",
+    "page": "https://unsplash.com/photos/busqfOj6i80"
+   },
+   {
+    "id": 1081,
+    "alt": "Stepped white modern building corner rising into a pale blue sky",
+    "tone": "light",
+    "colours": [
+     "white",
+     "pale blue",
+     "soft grey"
+    ],
+    "mono": false,
+    "calm": "top",
+    "quality": 5,
+    "ratio": 1.49,
+    "by": "Julien Moreau",
+    "page": "https://unsplash.com/photos/688Fna1pwOQ"
+   }
+  ]
+ },
+ "motion": {
+  "id": "index-preview",
+  "name": "Index with preview",
+  "description": "Rows of text are the navigation through the work; pointing at a row brings up its image in one fixed frame and dims the other rows. On touch screens each row shows its image inline instead. Fast and exact (about 240ms crossfade), no lag behind the pointer. Recipe: 'Index with preview, anchored to the row' in references/motion.md."
+ },
+ "sections": [
+  {
+   "id": "list-giant-word-bar-rows",
+   "role": "list",
+   "name": "Giant word, filled bar rows",
+   "shape": "stack",
+   "tags": [
+    "type-led",
+    "colour-field",
+    "dense"
+   ],
+   "directions": [
+    "split-stage",
+    "page-is-the-object",
+    "name-as-monument",
+    "dense-tiles",
+    "loud-flat-poster"
+   ],
+   "needs": [],
+   "blueprint": "Sized for a reading column 520–640px wide, or centred at that width on a full page. The heading is one word (menu, hours, prices) in tall condensed capitals, its `font-size` set in container units (around 46cqw for four letters, tuned per word) so the letters fill the column from edge to edge, leading 0.8. 20px below, a stack of full-width filled bars, each 56px tall with 6px gaps, in a flat tone one step from the ground, with square corners or a 6px radius. Each bar carries a category name at 16px in medium weight at the left with 18px padding and a plus sign at the right. A bar opens in place as a `details` element: it keeps its fill, and its panel lists items at 16px, name left and price right-aligned with tabular figures, 14px between items, 20px padding. Six to nine bars; the first is open by default.",
+   "mobile": "The column is the full width with 16px margins, so the one-word heading spans the screen. Bars are 54px tall with 6px gaps and open the same way. Item descriptions, if any, sit under the name at 14px in the soft ink.",
+   "seenIn": [
+    "opl-le-petit-bleu"
+   ]
+  },
+  {
+   "id": "footer-back-of-the-card",
+   "role": "footer",
+   "name": "The back of the card",
+   "shape": "stack",
+   "tags": [
+    "object-led",
+    "quiet"
+   ],
+   "directions": [
+    "page-is-the-object",
+    "specimen-catalogue",
+    "borrowed-category",
+    "hero-object",
+    "place-carries-it"
+   ],
+   "needs": [],
+   "blueprint": "The footer is the reverse side of the page's artefact, laid out as the back of a postcard. A paper-coloured panel spans columns 2–11 on the contrasting ground, about 420px tall, its top edge cut into a row of twelve semicircular scallops (an inline SVG path or `clip-path`, each scallop about 100px wide). The panel is divided by space into two halves. Left half: a short sign-off of two to four words at 32px, then two or three lines at 16px, written like a message. Right half: the address block, four left-aligned lines at 18px with 12px between them, each line a link (email, telephone, street, social); above it in the top-right corner, a stamp: one small photograph, 3:4 and 88px wide, with a 6px paper-coloured margin. Along the panel's bottom edge, a single centred line at 12px gives the copyright like a printer's imprint.",
+   "mobile": "The panel runs full width with six scallops across its top edge. The stamp sits top-right at 64px wide; the sign-off and message come first, then the address lines at 17px beneath them, then the imprint line centred at 12px.",
+   "seenIn": [
+    "opl-zara-webb",
+    "opl-britt-taylor",
+    "opl-sarah-matt-wedding",
+    "opl-transport"
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "aww-mosbys-files",
+   "name": "Mosby’s Files",
+   "url": "https://www.mosbyfiles.com/",
+   "source": "Awwwards Site of the Day",
+   "kind": "culture",
+   "score": 8,
+   "idea": "An archive of architects presented as a physical stack of coloured index-tab file folders that you flip through.",
+   "mood": [
+    "bold",
+    "archival",
+    "graphic",
+    "playful",
+    "scholarly"
+   ],
+   "archetype": "type-poster",
+   "hero": "Charcoal background. A slim top bar over a hairline holds the condensed wordmark dead centre and one mono link far right. The headline is one centred line of heavy condensed uppercase at 10vw, about 71% of the width, in the upper quarter. Beneath it, a three-line centred serif paragraph in mid-grey, about 42% wide. From 51% down sits a stack of file folders 86% of the viewport wide: each is a flat colour band with one to three trapezoid tabs rising from its top-left edge, each tab a different colour holding a serif name. Mono category labels sit right-aligned. The front red folder is open, running off the bottom.",
+   "type": "Founders Grotesk bold condensed uppercase at 144px for the title and wordmark; Signifier serif at about 22px for the intro and 28px for tab names; IBM Plex Mono 12px for labels and body. Three unrelated faces, each with one job, and a twelve-to-one size jump.",
+   "colour": "#191919 #d71e1e #1e4bd7 #0c7866 #581e70 #ffe927 — Charcoal ground with five flat poster primaries assigned to folders and tabs; each tab deliberately differs from the folder behind it. No tints, gradients or photos; white type except black on yellow.",
+   "imagery": "No photographs on the index. The folder shapes are the imagery, plus a row of seven small white line-drawn north-arrow and compass symbols and a drawing scale bar borrowed from architectural plans.",
+   "layout": "Centred title block over an 86%-wide folder stack with equal dark margins. Folders overlap at a fixed 60px step so only the tab rows show; the open folder expands into a tall single-colour panel with mono text top-left and plan symbols near the bottom. Under two screens.",
+   "sections": [
+    {
+     "role": "work",
+     "description": "Four full-width colour bands stacked with a 60px reveal, each with trapezoid tabs growing from its top-left edge. Tabs are about 44px tall with S-curved shoulders, sit side by side with small gaps, and each takes a contrasting flat colour: yellow and black tabs on a green folder, red and blue on purple. Names are white serif at 28px inside the tabs. A mono category label with a small chevron is right-aligned in each band's visible strip."
+    },
+    {
+     "role": "other",
+     "description": "The front folder opens into a solid red panel nearly two viewports tall. Top-right: its mono category label with a down chevron. Top-left, inset about 60px: a four-line mono paragraph in white, at most half the panel wide. The middle is left empty. Near the bottom, a centred row of seven small white plan symbols evenly spaced; beneath, a baseline row with a drawing scale bar left, year centre, credit and round logo right."
+    }
+   ],
+   "steal": [
+    "Build navigation as stacked full-width colour bands with trapezoid tabs, each tab coloured to clash with the folder behind it.",
+    "Pair a heavy condensed grotesk title with a bookish serif for names and a mono for metadata, giving each face exactly one role.",
+    "Borrow notation from the subject's own documents (scale bars, north arrows) as footer ornament instead of generic icons."
+   ],
+   "media": "The hero has no picture: its visual weight is a CSS stack of overlapping flat colour folders with sloped tabs covering the lower half of the fold (about 42% of the area), which doubles as the index; an open folder expands to 80vh as the content panel. The only drawings are seven small white plan symbols and a scale bar; no photographs or video on the index.",
+   "motion": "A short entrance: readable at about 1.2s, with 17 title letter spans already in place, and settled by 2.5s as the stack rises about 13px into place and the subline fades up. Lenis on a page only 1.6 screens tall; the header slides away on scroll, and folders and tabs move on one house curve, cubic-bezier(.33,1,.68,1), at 0.65s, with the quicker moves at exactly half that, 0.325s."
+  },
+  {
+   "id": "opl-the-deep-end",
+   "name": "The Deep End",
+   "url": "https://thedeepend.space",
+   "source": "One Page Love",
+   "kind": "event",
+   "score": 7.5,
+   "idea": "The whole site is one invitation card floating over ambient footage, which shrinks into a pinned corner ticket as scattered stills scroll past.",
+   "mood": [
+    "warm",
+    "intimate",
+    "hushed",
+    "analog"
+   ],
+   "archetype": "fullbleed-media-overlay",
+   "hero": "Full-bleed, dim, amber-toned video of a listening room: a modular synth and speaker at top, a person lying on a silk cushion in soft focus. Centred over it is a square-cornered panel about 55% of the viewport wide and 62% tall, a blurred brown-to-taupe wash. Inside, the three words of the title are spread along the top edge at left, centre and right in bold condensed caps. A small line-diagram logo sits below. Two left-aligned text blocks at 2.5vw in the same heavy condensed face, tightly leaded: five lines of event details, four of description. Bottom edge: credits left, an RSVP box centre, a small link right. No navigation.",
+   "type": "PP Neue York extra-bold condensed is the only face, used at essentially one size, 36px, in white with very tight leading; credits drop to about 12px. Mixed case with occasional all-caps lines and a raised underlined ordinal. Hierarchy comes from spacing and position alone.",
+   "colour": "#2b2216 #bda38b #c8874a #f1f1e9 #181818 — Warm browns and ambers lifted straight from the footage: dark walnut video, a taupe translucent card, then a flat tan page with honey-lit photos. White type only; no accent colour.",
+   "imagery": "Low-light cinematic video and stills of people lying with eyes closed, shallow focus, amber backlight, wood panelling. Square-cornered and at very different sizes, from small thumbnails to near full-height frames, placed off-grid on flat tan.",
+   "layout": "After the full-bleed opener the page becomes a flat tan field where photos are placed irregularly, one small at left, one mid-size near centre, one tall at right, with wide gaps. The invitation card stays pinned top-left. About four screens, no headings or sections.",
+   "sections": [
+    {
+     "role": "gallery",
+     "description": "Flat tan background. Images sit at irregular positions and scales with no shared grid: a small landscape still about 14% wide near the left edge, a mid-sized one about 16% wide lower and nearer the centre, then a large portrait frame about 26% wide and a full viewport tall near the right. One video frame returns nearly full-bleed between them. No captions; all text lives in the pinned card, which partly overlaps the images."
+    },
+    {
+     "role": "contact",
+     "description": "On scroll the invitation panel collapses to a card pinned in the top-left corner, about half the viewport wide and 22% tall, flush with the edges. It keeps the three-word title spread along its top, the logo, five lines of date and address, and the RSVP box centred on its bottom edge. Its fill is semi-transparent taupe with a blurred dark vignette, so photos passing beneath tint it."
+    }
+   ],
+   "steal": [
+    "Spread the words of a short title to the left, centre and right of a card's top edge so the name becomes its frame.",
+    "Set every line of an invitation in one heavy condensed face at one size and let line breaks and gaps create the hierarchy.",
+    "Shrink the hero card into a pinned corner ticket that keeps date, place and the RSVP button visible for the whole scroll."
+   ]
+  },
+  {
+   "id": "aww-colonia-zacamil",
+   "name": "Colonia Zacamil",
+   "url": "https://coloniazacamil.com/",
+   "source": "Awwwards Site of the Day",
+   "kind": "culture",
+   "score": 7.2,
+   "idea": "The sentence is the layout: 'FLY TO ___ ZACAMIL' runs as one full-width line, with a strip of drone video filling the gap where a word would sit.",
+   "mood": [
+    "cinematic",
+    "stark",
+    "editorial",
+    "inviting"
+   ],
+   "archetype": "type-poster",
+   "hero": "Warm off-white field with no navigation at all. One line of black ultra-condensed capitals about 13vw tall sits on the vertical centre and runs edge to edge with 28px side margins: 'FLY', a wide gap, 'TO', then a rounded-corner strip of aerial video exactly as tall as the letters and half the viewport wide, then 'ZACAMIL'. A tiny mono bracket label sits above the last word. About 150px lower, a small black pill button with a white dot-in-circle at its right end is centred. Two centred lines of 24px serif sit near the bottom edge. The top third is empty.",
+   "type": "Heathergreen, an ultra-condensed regular-weight sans, in capitals at 187px; Reckless Neue serif at 24px for the caption; Roboto Mono for the button and bracket label. Three faces, each used once, with roughly an 8:1 jump and no tracking adjustments.",
+   "colour": "#ebe6e0 #000000 #3d4633 #8d8a84 #4d8fa3 — Warm putty paper with pure black type and button. The only colour on the page is inside the video strip: tree greens, roof greys and one patch of teal.",
+   "imagery": "Top-down drone footage of housing blocks and trees, cropped to an extreme letterbox near 5:1 with 14px rounded corners and used as a word inside the headline; on mobile it becomes a 2:1 block between two headline lines.",
+   "layout": "Single viewport, no scroll captured. Everything hangs on the central axis: full-width headline line mid-screen, button below, caption at the foot. About 80% of the screen is bare paper. On mobile the sentence stacks into three bands: words, video, word.",
+   "sections": [],
+   "steal": [
+    "Replace a word in the headline with a media strip cut to the cap height, so the picture is read as part of the sentence.",
+    "Use three type voices once each (ultra-condensed display, soft serif caption, mono button) instead of one family in many sizes.",
+    "On mobile, restack the same sentence as word / image / word at full width rather than shrinking the single line."
+   ]
+  }
+ ],
+ "scenes": []
+}

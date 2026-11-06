@@ -1,0 +1,1377 @@
+{
+ "url": "http://localhost:3000/news/the-case-for-slower-software",
+ "at": "2026-11-06T02:20:55.631Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 2,
+   "filled": [
+    0.46,
+    0.31
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 1621,
+     "screens": 1.8,
+     "words": 152,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fthe-case-for-s"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The Bulletin",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 80,
+     "vw": 5.6,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.87,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The Case for Slower Software",
+     "words": 5,
+     "lines": 1,
+     "size": 48,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 80,
+      "vw": 5.6,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "The Case for Slower Software",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.015,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.47,
+      "top": 263,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 1522,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Serif 4",
+       "share": 0.71,
+       "mono": false
+      },
+      {
+       "family": "Inter",
+       "share": 0.29,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      18,
+      27,
+      32,
+      48,
+      80
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Serif 4",
+      "size": 18,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 18.9
+     },
+     "measureChars": 76,
+     "max": {
+      "size": 80,
+      "vw": 5.6,
+      "font": "Source Serif 4",
+      "text": "The Bulletin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Opinion",
+      "above": "The Case for Slower Software",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 231
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#111111",
+       "share": 0.77
+      },
+      {
+       "color": "#555555",
+       "share": 0.22
+      },
+      {
+       "color": "#0274b6",
+       "share": 0.01
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "nav.wrap.sections 1280px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.36
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 187,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 1621,
+    "margins": {
+     "left": 96,
+     "right": 96
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 187,
+      "words": 15,
+      "media": 0,
+      "middle": 321,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 80,
+       "tag": "a"
+      },
+      "left": 96,
+      "right": 96,
+      "textLeft": 96,
+      "textRight": 96,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.wrap",
+      "tag": "main",
+      "top": 187,
+      "height": 1308,
+      "words": 120,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Case for Slower Software",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 270,
+      "right": 270,
+      "textLeft": 270,
+      "textRight": 400,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 1495,
+      "height": 127,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 505,
+      "right": 489,
+      "textLeft": 505,
+      "textRight": 489,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The Case for Slower Software",
+      "size": 48,
+      "top": 263,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 380,
+      "n": 5
+     },
+     {
+      "x": 403,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 6,
+    "bodySize": 18,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.14,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 240,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 2,
+   "filled": [
+    0.71,
+    0.62
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 1483,
+     "screens": 1.4,
+     "words": 152,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fthe-case-for-s"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The Bulletin",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 62.4,
+     "vw": 8.1,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.96,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The Case for Slower Software",
+     "words": 5,
+     "lines": 1,
+     "size": 37.6,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "The Case for Slower Software",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 37.6,
+      "vw": 4.9,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.015,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 245,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "A modest proposal",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1165,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1384,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 4,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Serif 4",
+       "share": 0.71,
+       "mono": false
+      },
+      {
+       "family": "Inter",
+       "share": 0.29,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      18,
+      27,
+      32,
+      38,
+      62
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Serif 4",
+      "size": 18,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 18.9
+     },
+     "measureChars": 76,
+     "max": {
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Source Serif 4",
+      "text": "The Bulletin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Opinion",
+      "above": "The Case for Slower Software",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 213
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#111111",
+       "share": 0.77
+      },
+      {
+       "color": "#555555",
+       "share": 0.22
+      },
+      {
+       "color": "#0274b6",
+       "share": 0.01
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "nav.wrap.sections 768px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.46
+     }
+    ],
+    "nav": {
+     "links": 8,
+     "fixed": false,
+     "height": 169,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 1483,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 169,
+      "words": 15,
+      "media": 0,
+      "middle": 65,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 62,
+       "tag": "a"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.wrap",
+      "tag": "main",
+      "top": 169,
+      "height": 1187,
+      "words": 120,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Case for Slower Software",
+       "size": 38,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 64,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 1357,
+      "height": 127,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 169,
+      "right": 153,
+      "textLeft": 169,
+      "textRight": 153,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The Case for Slower Software",
+      "size": 38,
+      "top": 245,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 44,
+      "n": 5
+     },
+     {
+      "x": 67,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 6,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 2,
+   "filled": [
+    0.56,
+    0.38
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 1469,
+     "screens": 1.7,
+     "words": 152,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fapi%2Fmedia%2Ffile%2Fthe-case-for-s"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The Bulletin",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 44,
+     "vw": 11.3,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The Case for Slower Software",
+     "words": 5,
+     "lines": 2,
+     "size": 32,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "The Case for Slower Software",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.015,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 227,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "A modest proposal",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 27,
+      "vw": 6.9,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1072,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Bulletin",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1350,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 4,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Serif 4",
+       "share": 0.71,
+       "mono": false
+      },
+      {
+       "family": "Inter",
+       "share": 0.29,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      18,
+      27,
+      32,
+      44
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Serif 4",
+      "size": 18,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 18.9
+     },
+     "measureChars": 40,
+     "max": {
+      "size": 44,
+      "vw": 11.3,
+      "font": "Source Serif 4",
+      "text": "The Bulletin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Opinion",
+      "above": "The Case for Slower Software",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 195
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#111111",
+       "share": 0.77
+      },
+      {
+       "color": "#555555",
+       "share": 0.22
+      },
+      {
+       "color": "#0274b6",
+       "share": 0.01
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "nav.wrap.sections 390px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.26
+     }
+    ],
+    "nav": {
+     "links": 8,
+     "fixed": false,
+     "height": 151,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 1469,
+    "margins": {
+     "left": 0,
+     "right": 0
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 151,
+      "words": 15,
+      "media": 0,
+      "middle": 7,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 44,
+       "tag": "a"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.wrap",
+      "tag": "main",
+      "top": 151,
+      "height": 1172,
+      "words": 120,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Case for Slower Software",
+       "size": 32,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 1323,
+      "height": 146,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Bulletin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 34,
+      "right": 19,
+      "textLeft": 34,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The Case for Slower Software",
+      "size": 32,
+      "top": 227,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "Home",
+      "side": "left",
+      "px": 0
+     },
+     {
+      "text": "World",
+      "side": "right",
+      "px": 0
+     }
+    ],
+    "edges": [
+     {
+      "x": 16,
+      "n": 5
+     },
+     {
+      "x": 39,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 6,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "1 eyebrow/kicker label(s) above headings: \"Opinion\" above \"The Case for Slower Software\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "hairline",
+   "width": 1440,
+   "message": "1 thin rule(s)/divider line(s): nav.wrap.sections 1280px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "first-action",
+   "width": 1440,
+   "message": "No visible button in the first screen.",
+   "fix": "Give the one primary action a real button in the first screen (a filled or solid-bordered control, 44px or taller), not only a link in the navigation.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 1 picture(s) on the page (1 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "small-text",
+   "width": 1440,
+   "message": "1 text block(s) under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Boska and Boska, but the page renders Source Serif 4, Inter.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 1 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  },
+  {
+   "level": "FAIL",
+   "id": "edge-text",
+   "width": 390,
+   "message": "2 text block(s) sit within 12px of the screen edge: \"Home\" (0px from the left); \"World\" (0px from the right)",
+   "fix": "Keep text inside the page margin (16–20px). Only display type deliberately bled past the edge may touch it."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/story/desktop-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/story/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/story/tablet-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/story/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/story/mobile-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/story/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

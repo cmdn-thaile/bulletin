@@ -1,0 +1,1280 @@
+{
+ "url": "http://localhost:3000/",
+ "at": "2026-11-05T09:03:36.332Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.23
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 900,
+     "screens": 1,
+     "words": 132,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bản Tin",
+     "words": 2,
+     "chars": 7,
+     "lines": 1,
+     "size": 80,
+     "vw": 5.6,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.87,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+     "words": 12,
+     "lines": 5,
+     "size": 40,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 80,
+      "vw": 5.6,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+      "words": 12,
+      "chars": 71,
+      "lines": 5,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 211,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 801,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 5,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 12,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Serif 4",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Inter",
+       "share": 0.23,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      15,
+      16,
+      18,
+      20,
+      32,
+      40,
+      80
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Serif 4",
+      "size": 18,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.6
+     },
+     "measureChars": 38,
+     "max": {
+      "size": 80,
+      "vw": 5.6,
+      "font": "Source Serif 4",
+      "text": "Bản Tin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#333333",
+       "share": 0.46
+      },
+      {
+       "color": "#111111",
+       "share": 0.38
+      },
+      {
+       "color": "#555555",
+       "share": 0.16
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 5,
+     "hairlineSamples": [
+      "nav.wrap.sections 1280px",
+      "div.lead-media 577px",
+      "aside.latest 277px",
+      "li 252px",
+      "li 252px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 187,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 900,
+    "margins": {
+     "left": 96,
+     "right": 96
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 187,
+      "words": 17,
+      "media": 0,
+      "middle": 454,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 80,
+       "tag": "a"
+      },
+      "left": 96,
+      "right": 96,
+      "textLeft": 96,
+      "textRight": 96,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.wrap",
+      "tag": "main",
+      "top": 187,
+      "height": 587,
+      "words": 103,
+      "media": 0,
+      "middle": 58,
+      "heading": {
+       "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Pr",
+       "size": 40,
+       "tag": "h1"
+      },
+      "left": 96,
+      "right": 109,
+      "textLeft": 96,
+      "textRight": 109,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 774,
+      "height": 127,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 528,
+      "right": 513,
+      "textLeft": 528,
+      "textRight": 513,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+      "size": 40,
+      "top": 211,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 96,
+      "n": 2
+     },
+     {
+      "x": 491,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 4,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.27,
+    "voidBox": {
+     "x": 480,
+     "y": 420,
+     "w": 960,
+     "h": 360
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.26
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 1024,
+     "screens": 1,
+     "words": 132,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bản Tin",
+     "words": 2,
+     "chars": 7,
+     "lines": 1,
+     "size": 62.4,
+     "vw": 8.1,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.96,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+     "words": 12,
+     "lines": 4,
+     "size": 29.9,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+      "words": 12,
+      "chars": 71,
+      "lines": 4,
+      "size": 29.9,
+      "vw": 3.9,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 193,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 925,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 4,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 12,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Serif 4",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Inter",
+       "share": 0.23,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      15,
+      16,
+      18,
+      20,
+      30,
+      32,
+      62
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Serif 4",
+      "size": 18,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.6
+     },
+     "measureChars": 32,
+     "max": {
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Source Serif 4",
+      "text": "Bản Tin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#333333",
+       "share": 0.46
+      },
+      {
+       "color": "#111111",
+       "share": 0.38
+      },
+      {
+       "color": "#555555",
+       "share": 0.16
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 4,
+     "hairlineSamples": [
+      "nav.wrap.sections 768px",
+      "div.lead-media 427px",
+      "li 736px",
+      "li 736px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 169,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 1024,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 169,
+      "words": 17,
+      "media": 0,
+      "middle": 203,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 62,
+       "tag": "a"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.wrap",
+      "tag": "main",
+      "top": 169,
+      "height": 728,
+      "words": 103,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Pr",
+       "size": 30,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 27,
+      "textLeft": 16,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 898,
+      "height": 127,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 192,
+      "right": 177,
+      "textLeft": 192,
+      "textRight": 177,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+      "size": 30,
+      "top": 193,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 2
+     },
+     {
+      "x": 350,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 4,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 2,
+   "filled": [
+    0.53,
+    0.45
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 1031,
+     "screens": 1.2,
+     "words": 132,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bản Tin",
+     "words": 2,
+     "chars": 7,
+     "lines": 1,
+     "size": 44,
+     "vw": 11.3,
+     "font": "Source Serif 4",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 40,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+     "words": 12,
+     "lines": 3,
+     "size": 28,
+     "font": "Source Serif 4"
+    },
+    "headings": [
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 40,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+      "words": 12,
+      "chars": 71,
+      "lines": 3,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 299,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Bản Tin",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Source Serif 4",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 912,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 12,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Source Serif 4",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Inter",
+       "share": 0.23,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      15,
+      16,
+      18,
+      20,
+      28,
+      32,
+      44
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Source Serif 4",
+      "size": 18,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.6
+     },
+     "measureChars": 40,
+     "max": {
+      "size": 44,
+      "vw": 11.3,
+      "font": "Source Serif 4",
+      "text": "Bản Tin"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#333333",
+       "share": 0.46
+      },
+      {
+       "color": "#111111",
+       "share": 0.38
+      },
+      {
+       "color": "#555555",
+       "share": 0.16
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 4,
+     "hairlineSamples": [
+      "nav.wrap.sections 390px",
+      "aside.latest 358px",
+      "li 358px",
+      "li 358px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 151,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter",
+     "source serif 4"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 1031,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "header.site-head",
+      "tag": "header",
+      "top": 0,
+      "height": 151,
+      "words": 17,
+      "media": 0,
+      "middle": 14,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 44,
+       "tag": "a"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.wrap",
+      "tag": "main",
+      "top": 151,
+      "height": 734,
+      "words": 103,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Pr",
+       "size": 28,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-foot",
+      "tag": "footer",
+      "top": 885,
+      "height": 146,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bản Tin",
+       "size": 32,
+       "tag": "a"
+      },
+      "left": 37,
+      "right": 22,
+      "textLeft": 37,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+      "size": 28,
+      "top": 299,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 4,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "1 headline(s) wrap past two lines at 1440px: \"Hong Kong Extends Jailed Activist Joshua Wong’s \" → 5 lines (12 words, 40px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "5 thin rule(s)/divider line(s): nav.wrap.sections 1280px | div.lead-media 577px | aside.latest 277px | li 252px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "first-action",
+   "width": 1440,
+   "message": "No visible button in the first screen.",
+   "fix": "Give the one primary action a real button in the first screen (a filled or solid-bordered control, 44px or taller), not only a link in the navigation.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Boska and Boska, but the page renders Source Serif 4, Inter.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 1 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "1 headline(s) wrap past two lines at 768px: \"Hong Kong Extends Jailed Activist Joshua Wong’s \" → 4 lines (12 words, 29.9px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "small-title",
+   "width": 768,
+   "message": "The h1 is 30px (\"Hong Kong Extends Jailed Activist Joshua Wong’s Pr\").",
+   "fix": "Set the title at display size, or make the large text of the first screen the h1."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"Hong Kong Extends Jailed Activist Joshua Wong’s \" → 3 lines (12 words, 28px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj/desktop-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj/tablet-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj/mobile-fold.jpg",
+   "pages": [
+    "/Users/thai.le/Work/Persona/payload-demo/news-demo/.taste-skill/wsj/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
