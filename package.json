@@ -17,7 +17,8 @@
     "test:e2e": "cross-env NODE_OPTIONS=\"--no-deprecation --import=tsx/esm\" playwright test --config=playwright.config.ts",
     "test:int": "cross-env NODE_OPTIONS=--no-deprecation vitest run --config ./vitest.config.mts",
     "ci": "cross-env NODE_OPTIONS=--no-deprecation payload migrate && pnpm build",
-    "seed": "cross-env NODE_ENV=production NODE_OPTIONS=--no-deprecation payload run scripts/seed.ts"
+    "seed": "cross-env NODE_ENV=production NODE_OPTIONS=--no-deprecation payload run scripts/seed.ts",
+    "migrate:create": "cross-env NODE_OPTIONS=--no-deprecation BLOB_READ_WRITE_TOKEN=vercel_blob_rw_migration_only payload migrate:create"
   },
   "dependencies": {
     "@payloadcms/db-postgres": "3.90.2",
